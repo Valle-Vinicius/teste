@@ -1,0 +1,30 @@
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+  background-image: url("onibus.jfif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  color: #333333;
+}
+
+.gif-bart {
+  width: 400px;
+  display: block;
+  margin: 20px auto;
+}
+
+.video-taiwan {
+  width: 600px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+}
